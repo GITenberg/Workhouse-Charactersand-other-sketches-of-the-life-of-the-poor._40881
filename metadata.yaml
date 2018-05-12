@@ -1,0 +1,35 @@
+_repo: Workhouse-Charactersand-other-sketches-of-the-life-of-the-poor._40881
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40881-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nevinson, Margaret Wynne
+    gutenberg_agent_id: '40873'
+    url: http://www.gutenberg.org/2009/agents/40873
+description: ''
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40881'
+  lccn: '19005919'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor -- England -- London'
+- !lcsh 'Workhouses -- England -- London'
+- !lcsh 'London (England) -- Social conditions'
+- !lcc 'HV'
+tableOfContents: 'Eunice Smith: drunk -- Detained by marital authority -- A Welsh
+  sailor -- The vow -- Blind and deaf -- "And behold, the babe wept" -- "Mary, Mary,
+  pity women!" -- The suicide -- Publicans and harlots -- Old Inky -- A daughter of
+  the state -- In the phthisis ward -- An Irish Catholic -- An obscure conversationalist
+  -- Mothers -- "Your son''s your son" -- "Too old at forty" -- In the lunatic asylum
+  -- The sweep''s legacy -- An alien -- "Widows indeed!" -- The runaway -- "A girl!
+  God help her!" -- On the permanent list -- The pauper and the old-age pension --
+  The evacuation of the workhouse.'
+title: Workhouse Characters, and other sketches of the life of the poor.
+url: http://www.gutenberg.org/ebooks/40881
