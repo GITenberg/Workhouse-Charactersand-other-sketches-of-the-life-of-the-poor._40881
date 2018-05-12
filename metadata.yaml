@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40873'
     url: http://www.gutenberg.org/2009/agents/40873
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40881#Workhouse-Charactersand-other-sketches-of-the-life-of-the-poor.
 gutenberg_issued: '2012-09-28'
 gutenberg_type: Text
 identifiers:
